@@ -1,0 +1,5 @@
+/mysql-connector-java-5.1.49.jar
+/*.class
+/out/production/CoreJava CRUD Application Using MySql/app/repo/RegisterRepo.class
+/out/production/CoreJava CRUD Application Using MySql/app/model/Student.class
+/out/production/CoreJava CRUD Application Using MySql/app/Test.class
